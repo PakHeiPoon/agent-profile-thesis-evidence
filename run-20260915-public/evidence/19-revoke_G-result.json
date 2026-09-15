@@ -1,0 +1,26 @@
+{
+  "name": "revoke_G",
+  "hash": "0xcfee424234818feebf797fe5d15cd8750906f01c163461c88027e1ee35e8dcb2",
+  "status": 1,
+  "block": 262638930,
+  "block_hash": "0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb",
+  "nonce": 30,
+  "gas_limit": 63020,
+  "gas_used": 48301,
+  "gas_charged": 48301,
+  "gas_price": 20000000000,
+  "fee_wei": 966020000000000,
+  "balance_delta_wei": 966020000000000,
+  "receipt_observation_s": 10.62792625464499,
+  "state_after": [
+    "0x130a53833A215cd7f36783853E1369b96E75b88f",
+    "0x96de7b60456284211fc08dc58611f4bf2f7e1b4fca2ba5dfcbb4c736ea450e89",
+    1789445719,
+    2,
+    "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/G.json"
+  ],
+  "state_unchanged": false,
+  "preflight_revert": null,
+  "message_signer": "0x130a53833A215cd7f36783853E1369b96E75b88f",
+  "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "relayer_forgery",
+  "hash": "0x6c49f33d618da192219097f7ccc0ece9e7a9895cc7d0a6f73d60c68cee39ef46",
+  "status": 0,
+  "block": 262638840,
+  "block_hash": "0x0271b77d13b3d23a7ac3274c7238e5faaea55bc093f0edbd72433ae4480ffd51",
+  "nonce": 22,
+  "gas_limit": 250000,
+  "gas_used": 72486,
+  "gas_charged": 187500,
+  "gas_price": 20000000000,
+  "fee_wei": 3750000000000000,
+  "balance_delta_wei": 3750000000000000,
+  "receipt_observation_s": 12.562445575371385,
+  "state_after": [
+    "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+    "0xa641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+    1789445719,
+    1,
+    "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+  ],
+  "state_unchanged": true,
+  "preflight_revert": "not owner key",
+  "message_signer": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9",
+  "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+}

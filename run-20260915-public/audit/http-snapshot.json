@@ -1,0 +1,62 @@
+[
+  {
+    "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/C.json",
+    "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/C.json",
+    "status": 200,
+    "body_sha256": "213392db453bee6457acfe28c451f1e8272b0645153ef79da31bcaeb35f1f7ca",
+    "body_utf8": "{\n  \"agent_id\": \"run-20260915-public-C\",\n  \"display_name\": \"Synthetic agent C\",\n  \"offers\": [\n    \"学术资料检索\"\n  ],\n  \"version\": 1,\n  \"synthetic\": true,\n  \"notice\": \"Public thesis test data; capability is an unverified claim.\"\n}",
+    "elapsed_s": 0.8258121656253934,
+    "utc": "2026-09-15T04:21:01.718379+00:00"
+  },
+  {
+    "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/B.json",
+    "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/B.json",
+    "status": 200,
+    "body_sha256": "6fe9c1a495910527a3745fc158280eb710ca7b6f74f79a6b03da90229e32fbcd",
+    "body_utf8": "{\n  \"agent_id\": \"run-20260915-public-B\",\n  \"display_name\": \"Synthetic agent B\",\n  \"offers\": [\n    \"学术资料检索\"\n  ],\n  \"version\": 1,\n  \"synthetic\": true,\n  \"notice\": \"Public thesis test data; capability is an unverified claim.\"\n}",
+    "elapsed_s": 0.9034856245853007,
+    "utc": "2026-09-15T04:21:08.357409+00:00"
+  },
+  {
+    "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json",
+    "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json",
+    "status": 200,
+    "body_sha256": "962208eed61fa25e844a293df37c3792ac5e852dbce8860416a62a5911908b2b",
+    "body_utf8": "{\n  \"agent_id\": \"run-20260915-public-A\",\n  \"display_name\": \"Synthetic agent A\",\n  \"offers\": [\n    \"学术资料检索\"\n  ],\n  \"version\": 2,\n  \"synthetic\": true,\n  \"notice\": \"Public thesis test data; capability is an unverified claim.\"\n}",
+    "elapsed_s": 0.8208463750779629,
+    "utc": "2026-09-15T04:21:12.510907+00:00"
+  },
+  {
+    "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/F.json",
+    "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/F.json",
+    "status": 200,
+    "body_sha256": "5f794b9de6973d6e136be2fab59df13915813fd27bce9d862716e9d2110a0cf4",
+    "body_utf8": "{\n  \"agent_id\": \"run-20260915-public-F\",\n  \"display_name\": \"Synthetic agent F\",\n  \"offers\": [\n    \"学术资料检索\"\n  ],\n  \"version\": 999,\n  \"synthetic\": true,\n  \"notice\": \"Public thesis test data; capability is an unverified claim.\"\n}",
+    "elapsed_s": 1.1431964999064803,
+    "utc": "2026-09-15T04:21:16.548848+00:00"
+  },
+  {
+    "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/D.json",
+    "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/D.json",
+    "status": 200,
+    "body_sha256": "11e4d0ae6fe9ad0ba5070b960bc61720758a0716a0b1690b8bb3fbfc28fa4ae1",
+    "body_utf8": "{\n  \"agent_id\": \"run-20260915-public-D\",\n  \"display_name\": \"Synthetic agent D\",\n  \"offers\": [\n    \"学术资料检索\"\n  ],\n  \"version\": 1,\n  \"synthetic\": true,\n  \"notice\": \"Public thesis test data; capability is an unverified claim.\"\n}",
+    "elapsed_s": 0.8399419169872999,
+    "utc": "2026-09-15T04:21:18.813593+00:00"
+  },
+  {
+    "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/E.json",
+    "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/E.json",
+    "status": 404,
+    "utc": "2026-09-15T04:21:23.321875+00:00"
+  },
+  {
+    "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/H.json",
+    "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/H.json",
+    "status": 200,
+    "body_sha256": "a5b1a2ff45a807ce81c1357004d96c47fcbc36781f5d3516625c9002dc212f7f",
+    "body_utf8": "{\n  \"agent_id\": \"run-20260915-public-incorrect-id\",\n  \"display_name\": \"Synthetic agent H\",\n  \"offers\": [\n    \"学术资料检索\"\n  ],\n  \"version\": 1,\n  \"synthetic\": true,\n  \"notice\": \"Public thesis test data; capability is an unverified claim.\"\n}",
+    "elapsed_s": 1.0694372076541185,
+    "utc": "2026-09-15T04:21:25.819869+00:00"
+  }
+]

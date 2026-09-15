@@ -1,0 +1,26 @@
+{
+  "name": "register_G",
+  "hash": "0x51d41aa8f47863959e3fd945c2f01504ad961123e535365417f9c7071412c8ea",
+  "status": 1,
+  "block": 262638795,
+  "block_hash": "0xc3a5c4d4b5d880c363a7955c0beb6b9326fe4ea85567df6bf73941d2dc90aab2",
+  "nonce": 18,
+  "gas_limit": 628047,
+  "gas_used": 452467,
+  "gas_charged": 471036,
+  "gas_price": 20000000000,
+  "fee_wei": 9420720000000000,
+  "balance_delta_wei": 9420720000000000,
+  "receipt_observation_s": 6.502847330644727,
+  "state_after": [
+    "0x130a53833A215cd7f36783853E1369b96E75b88f",
+    "0x96de7b60456284211fc08dc58611f4bf2f7e1b4fca2ba5dfcbb4c736ea450e89",
+    1789445718,
+    1,
+    "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/G.json"
+  ],
+  "state_unchanged": false,
+  "preflight_revert": null,
+  "message_signer": "0x130a53833A215cd7f36783853E1369b96E75b88f",
+  "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+}

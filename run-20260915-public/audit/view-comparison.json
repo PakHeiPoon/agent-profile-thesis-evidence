@@ -1,0 +1,75 @@
+{
+  "scope": {
+    "contract": "0x49Fda55aEFfa835375290217Cd69E9bFFf17039b",
+    "chain_id": 71,
+    "snapshot_block": 262638930,
+    "snapshot_hash": "0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb",
+    "run_id": "run-20260915-public",
+    "filter": "all active records with retrievable, verified originals in this run"
+  },
+  "public_base": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views",
+  "views": {
+    "full": {
+      "ids": [
+        "run-20260915-public-A",
+        "run-20260915-public-B",
+        "run-20260915-public-C",
+        "run-20260915-public-D"
+      ],
+      "pages": 2,
+      "all_individual_entries_valid": true,
+      "omitted_ids": []
+    },
+    "user": {
+      "ids": [
+        "run-20260915-public-A",
+        "run-20260915-public-C",
+        "run-20260915-public-D"
+      ],
+      "pages": 2,
+      "all_individual_entries_valid": true,
+      "omitted_ids": [
+        "run-20260915-public-B"
+      ]
+    }
+  },
+  "http_responses": [
+    {
+      "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/full-1.json",
+      "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/full-1.json",
+      "status": 200,
+      "body_sha256": "c085018f28ff617dbede368ca92215ed71cd6930d4a8d76ad18c1635c1366778",
+      "body_utf8": "{\n  \"scope\": {\n    \"contract\": \"0x49Fda55aEFfa835375290217Cd69E9bFFf17039b\",\n    \"chain_id\": 71,\n    \"snapshot_block\": 262638930,\n    \"snapshot_hash\": \"0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb\",\n    \"run_id\": \"run-20260915-public\",\n    \"filter\": \"all active records with retrievable, verified originals in this run\"\n  },\n  \"page\": 1,\n  \"ids\": [\n    \"run-20260915-public-A\",\n    \"run-20260915-public-B\"\n  ],\n  \"next\": \"full-2.json\",\n  \"total\": 4,\n  \"fixture\": true\n}",
+      "elapsed_s": 0.8616832923144102,
+      "utc": "2026-09-15T04:23:33.744641+00:00"
+    },
+    {
+      "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/full-2.json",
+      "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/full-2.json",
+      "status": 200,
+      "body_sha256": "fd8a7a29851049980482c422b652429c2043e4f2b64f5539034a92c0e7f3db81",
+      "body_utf8": "{\n  \"scope\": {\n    \"contract\": \"0x49Fda55aEFfa835375290217Cd69E9bFFf17039b\",\n    \"chain_id\": 71,\n    \"snapshot_block\": 262638930,\n    \"snapshot_hash\": \"0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb\",\n    \"run_id\": \"run-20260915-public\",\n    \"filter\": \"all active records with retrievable, verified originals in this run\"\n  },\n  \"page\": 2,\n  \"ids\": [\n    \"run-20260915-public-C\",\n    \"run-20260915-public-D\"\n  ],\n  \"next\": null,\n  \"total\": 4,\n  \"fixture\": true\n}",
+      "elapsed_s": 0.9725276250392199,
+      "utc": "2026-09-15T04:23:34.717192+00:00"
+    },
+    {
+      "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/user-1.json",
+      "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/user-1.json",
+      "status": 200,
+      "body_sha256": "affd89d1c94da6211bc7d391d7fd46b178ac8eeaf9dbf37f3703203e24231172",
+      "body_utf8": "{\n  \"scope\": {\n    \"contract\": \"0x49Fda55aEFfa835375290217Cd69E9bFFf17039b\",\n    \"chain_id\": 71,\n    \"snapshot_block\": 262638930,\n    \"snapshot_hash\": \"0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb\",\n    \"run_id\": \"run-20260915-public\",\n    \"filter\": \"all active records with retrievable, verified originals in this run\"\n  },\n  \"page\": 1,\n  \"ids\": [\n    \"run-20260915-public-A\",\n    \"run-20260915-public-C\"\n  ],\n  \"next\": \"user-2.json\",\n  \"total\": 3,\n  \"fixture\": true\n}",
+      "elapsed_s": 1.1372692501172423,
+      "utc": "2026-09-15T04:23:35.854449+00:00"
+    },
+    {
+      "uri": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/user-2.json",
+      "url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/c242d992a5016c6fe05a534532b2c994c9654a4c/run-20260915-public/views/user-2.json",
+      "status": 200,
+      "body_sha256": "58578508ea4df5e26f5d7913ddef44b6ab8e5276fe6f1fbaa1656f0bfd096399",
+      "body_utf8": "{\n  \"scope\": {\n    \"contract\": \"0x49Fda55aEFfa835375290217Cd69E9bFFf17039b\",\n    \"chain_id\": 71,\n    \"snapshot_block\": 262638930,\n    \"snapshot_hash\": \"0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb\",\n    \"run_id\": \"run-20260915-public\",\n    \"filter\": \"all active records with retrievable, verified originals in this run\"\n  },\n  \"page\": 2,\n  \"ids\": [\n    \"run-20260915-public-D\"\n  ],\n  \"next\": null,\n  \"total\": 3,\n  \"fixture\": true\n}",
+      "elapsed_s": 0.9606192079372704,
+      "utc": "2026-09-15T04:23:36.815113+00:00"
+    }
+  ],
+  "controlled_static_views": true
+}

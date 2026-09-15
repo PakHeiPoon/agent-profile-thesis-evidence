@@ -1,0 +1,51 @@
+{
+  "python": "3.12.3",
+  "web3": "7.16.0",
+  "eth-account": "0.13.7",
+  "rpc": "https://evmtestnet.confluxrpc.com",
+  "start_block": 262638692,
+  "device_before": {
+    "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x8Ece950af71d6c6F3eE8db558Be3Ba08Fa0Eb14D": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x43B8143CBE847b3Ef527062DD658EBc8d2EFE590": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x3b57f3509C9210542D3e838DA45D37291E93a45E": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0xdAbd437445fbd51F728dE90523b1B2ADC565dcDb": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x440C7D6C289c09EE19927867f5286A1141CD2e8D": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x130a53833A215cd7f36783853E1369b96E75b88f": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x53636eB219cCa6ed3811a904Bfa721DEfE9e0d7c": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x1e1734dE084Dd7947a491F4ec843317A1184da1f": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x30134DbFC14E71B962E702CEcb06259c8437332E": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  "manifest_sha256": "2e0e1de0f019f4ed62927aba4e399e2ffd909f3e07740383ad272fc4d8dc2823",
+  "runner_sha256": "eeb53c9730924434b4f74724b7dc68723685faf5e59206c38ac3e6219f4dc494"
+}

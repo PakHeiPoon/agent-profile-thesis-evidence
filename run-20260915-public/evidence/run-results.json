@@ -1,0 +1,587 @@
+{
+  "transactions": [
+    {
+      "name": "register_A",
+      "hash": "0x1543f2caceada824d16c44d31bd95af87332aa43de2ffe541bd39c0e2616f612",
+      "status": 1,
+      "block": 262638705,
+      "block_hash": "0xa03c111bd0823e5605959dbbfd160428c0d7a353aac87ce97be89328601753fd",
+      "nonce": 12,
+      "gas_limit": 627216,
+      "gas_used": 451872,
+      "gas_charged": 470412,
+      "gas_price": 20000000000,
+      "fee_wei": 9408240000000000,
+      "balance_delta_wei": 9408240000000000,
+      "receipt_observation_s": 10.757678337395191,
+      "state_after": [
+        "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+        "0x8621e1397b3a14c161f881437c2cc42ab655a09c9514dbf39f10f04026ba7161",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_B",
+      "hash": "0xb2ffc54d3bb601a66666ac7b777e48f0b12161dcb7ba2287ec48d3d1cbb9bfd6",
+      "status": 1,
+      "block": 262638720,
+      "block_hash": "0xefaa2e0f75782a7ca1e64cb09bc4101bf46e0e63f2c87bb2754cfe702d89742c",
+      "nonce": 13,
+      "gas_limit": 627546,
+      "gas_used": 452109,
+      "gas_charged": 470660,
+      "gas_price": 20000000000,
+      "fee_wei": 9413200000000000,
+      "balance_delta_wei": 9413200000000000,
+      "receipt_observation_s": 10.844282766804099,
+      "state_after": [
+        "0x8Ece950af71d6c6F3eE8db558Be3Ba08Fa0Eb14D",
+        "0xbc351cc1305e32870ed21a720414090bc8ecb039ca3258e197d757b0db6104dd",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/B.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x8Ece950af71d6c6F3eE8db558Be3Ba08Fa0Eb14D",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_C",
+      "hash": "0x959edae7c0efd0764130274988c2a948de373f1364f56dc861c1e36df7898519",
+      "status": 1,
+      "block": 262638735,
+      "block_hash": "0x4be3fd645c5ea1ea8208ffbbf14759faccc8698e7830f7891ee99ad9fb294eff",
+      "nonce": 14,
+      "gas_limit": 627522,
+      "gas_used": 452092,
+      "gas_charged": 470642,
+      "gas_price": 20000000000,
+      "fee_wei": 9412840000000000,
+      "balance_delta_wei": 9412840000000000,
+      "receipt_observation_s": 12.673877235502005,
+      "state_after": [
+        "0x43B8143CBE847b3Ef527062DD658EBc8d2EFE590",
+        "0x6b557f7284d6279ea56c4b263e7b1d0f8b18ccf1ba803e052062d1cc1449756c",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/C.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x43B8143CBE847b3Ef527062DD658EBc8d2EFE590",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_D",
+      "hash": "0x024ce345902b28802ffbed9998c08386e1e239b8887e4ba6809bd83eea0fbd3e",
+      "status": 1,
+      "block": 262638745,
+      "block_hash": "0xb10e7d8938b5b99cf5007ba4013c405518ad080912032e2a05b266f96219bab7",
+      "nonce": 15,
+      "gas_limit": 627732,
+      "gas_used": 452242,
+      "gas_charged": 470799,
+      "gas_price": 20000000000,
+      "fee_wei": 9415980000000000,
+      "balance_delta_wei": 9415980000000000,
+      "receipt_observation_s": 10.616961693391204,
+      "state_after": [
+        "0x3b57f3509C9210542D3e838DA45D37291E93a45E",
+        "0x4095a5e86f85b85bc471edcfd75c5f2aec58e1745992f9140a1af350e4c98f37",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/D.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x3b57f3509C9210542D3e838DA45D37291E93a45E",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_E",
+      "hash": "0xfd7fe66fea95b6369c0497a06b58603e07f6bfba253043c43c483c314b976216",
+      "status": 1,
+      "block": 262638760,
+      "block_hash": "0xe52645b3349e645e1058e89a9b4280e14d20cb2abb056153861e9e5678b3683d",
+      "nonce": 16,
+      "gas_limit": 627546,
+      "gas_used": 452109,
+      "gas_charged": 470660,
+      "gas_price": 20000000000,
+      "fee_wei": 9413200000000000,
+      "balance_delta_wei": 9413200000000000,
+      "receipt_observation_s": 14.735351143404841,
+      "state_after": [
+        "0xdAbd437445fbd51F728dE90523b1B2ADC565dcDb",
+        "0x81a554d09b6e70b09b2b35be88d67ffa40a3ce5293d000d19a2be5519f981696",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/E.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0xdAbd437445fbd51F728dE90523b1B2ADC565dcDb",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_F",
+      "hash": "0x80cc81a57e77093facc91c7d2a35c7f30f528fb54913b3de5a23fb6c897e690e",
+      "status": 1,
+      "block": 262638775,
+      "block_hash": "0xc4879ce68bfede4c6d2faf8aad86391574b60ebe97520c2fb32a1ad2eb35be8e",
+      "nonce": 17,
+      "gas_limit": 628281,
+      "gas_used": 452634,
+      "gas_charged": 471211,
+      "gas_price": 20000000000,
+      "fee_wei": 9424220000000000,
+      "balance_delta_wei": 9424220000000000,
+      "receipt_observation_s": 25.166697036474943,
+      "state_after": [
+        "0x440C7D6C289c09EE19927867f5286A1141CD2e8D",
+        "0x791ac7f487a62e6e0cb7df96d80b66c77d5ef1ea466c69bbbe676fab189fd41c",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/F.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x440C7D6C289c09EE19927867f5286A1141CD2e8D",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_G",
+      "hash": "0x51d41aa8f47863959e3fd945c2f01504ad961123e535365417f9c7071412c8ea",
+      "status": 1,
+      "block": 262638795,
+      "block_hash": "0xc3a5c4d4b5d880c363a7955c0beb6b9326fe4ea85567df6bf73941d2dc90aab2",
+      "nonce": 18,
+      "gas_limit": 628047,
+      "gas_used": 452467,
+      "gas_charged": 471036,
+      "gas_price": 20000000000,
+      "fee_wei": 9420720000000000,
+      "balance_delta_wei": 9420720000000000,
+      "receipt_observation_s": 6.502847330644727,
+      "state_after": [
+        "0x130a53833A215cd7f36783853E1369b96E75b88f",
+        "0x96de7b60456284211fc08dc58611f4bf2f7e1b4fca2ba5dfcbb4c736ea450e89",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/G.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x130a53833A215cd7f36783853E1369b96E75b88f",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_H",
+      "hash": "0x7a586dcd47c3d124ba975f8be791bdac0b514e5b4c22c4c1f2227c75d63a27bc",
+      "status": 1,
+      "block": 262638805,
+      "block_hash": "0x79de20be55abae3f801ee09da6114748f41c85ced458c85b5b9b8fba3553b6fc",
+      "nonce": 19,
+      "gas_limit": 627966,
+      "gas_used": 452409,
+      "gas_charged": 470975,
+      "gas_price": 20000000000,
+      "fee_wei": 9419500000000000,
+      "balance_delta_wei": 9419500000000000,
+      "receipt_observation_s": 10.604723250493407,
+      "state_after": [
+        "0x53636eB219cCa6ed3811a904Bfa721DEfE9e0d7c",
+        "0xe18a60e557f5ecfdef19210d06ec1a5291db5b3dbfc35f649ef35c4b23388964",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/H.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x53636eB219cCa6ed3811a904Bfa721DEfE9e0d7c",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "register_L",
+      "hash": "0x5b56377e8b733faecd139ff396f13074faeed437c7ae8fa49df1b42204096d9f",
+      "status": 1,
+      "block": 262638815,
+      "block_hash": "0x1df39d608f5a341ccf00be78a2fed3c4bbaa14e7276c7ec4c3dc9c83dac0d2a2",
+      "nonce": 20,
+      "gas_limit": 627102,
+      "gas_used": 451792,
+      "gas_charged": 470327,
+      "gas_price": 20000000000,
+      "fee_wei": 9406540000000000,
+      "balance_delta_wei": 9406540000000000,
+      "receipt_observation_s": 10.607104619964957,
+      "state_after": [
+        "0x1e1734dE084Dd7947a491F4ec843317A1184da1f",
+        "0x939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445718,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x1e1734dE084Dd7947a491F4ec843317A1184da1f",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "authorized_update",
+      "hash": "0x75ca7852ce3bc8b95ebdc6f42eff3592f152caf63e3df0465f60e2531da942a7",
+      "status": 1,
+      "block": 262638825,
+      "block_hash": "0x81a6043050c0db7f9a9aaf4db798744985068fbff322e18dc232107d85c3f0d8",
+      "nonce": 21,
+      "gas_limit": 140666,
+      "gas_used": 104341,
+      "gas_charged": 105500,
+      "gas_price": 20000000000,
+      "fee_wei": 2110000000000000,
+      "balance_delta_wei": 2110000000000000,
+      "receipt_observation_s": 8.469303144142032,
+      "state_after": [
+        "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+        "0xa641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445719,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "relayer_forgery",
+      "hash": "0x6c49f33d618da192219097f7ccc0ece9e7a9895cc7d0a6f73d60c68cee39ef46",
+      "status": 0,
+      "block": 262638840,
+      "block_hash": "0x0271b77d13b3d23a7ac3274c7238e5faaea55bc093f0edbd72433ae4480ffd51",
+      "nonce": 22,
+      "gas_limit": 250000,
+      "gas_used": 72486,
+      "gas_charged": 187500,
+      "gas_price": 20000000000,
+      "fee_wei": 3750000000000000,
+      "balance_delta_wei": 3750000000000000,
+      "receipt_observation_s": 12.562445575371385,
+      "state_after": [
+        "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+        "0xa641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445719,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+      ],
+      "state_unchanged": true,
+      "preflight_revert": "not owner key",
+      "message_signer": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "replay",
+      "hash": "0xb9b9eaa164b39b0708d7235a1a0b1691c2a1ddd7714a4576b56c6c3a3c3c73f7",
+      "status": 0,
+      "block": 262638850,
+      "block_hash": "0x04f95d0a7e2d5de1ff64e7e7f666505f662f5bfb7021f56bb043011623daa5c8",
+      "nonce": 23,
+      "gas_limit": 250000,
+      "gas_used": 47359,
+      "gas_charged": 187500,
+      "gas_price": 20000000000,
+      "fee_wei": 3750000000000000,
+      "balance_delta_wei": 3750000000000000,
+      "receipt_observation_s": 14.611533172428608,
+      "state_after": [
+        "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+        "0xa641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445719,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+      ],
+      "state_unchanged": true,
+      "preflight_revert": "stale ts",
+      "message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "uri_swap",
+      "hash": "0x0d92dce07707ad518cdbe08ee630d6136a0b7cd25987ef16361e1e3a6c45eb2e",
+      "status": 0,
+      "block": 262638865,
+      "block_hash": "0xdda9f0c40c4f65eaa5ed77b55ba88a66cc2c6e8fd4972097abbd615710c53d52",
+      "nonce": 24,
+      "gas_limit": 250000,
+      "gas_used": 72450,
+      "gas_charged": 187500,
+      "gas_price": 20000000000,
+      "fee_wei": 3750000000000000,
+      "balance_delta_wei": 3750000000000000,
+      "receipt_observation_s": 12.562977140769362,
+      "state_after": [
+        "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+        "0xa641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445719,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+      ],
+      "state_unchanged": true,
+      "preflight_revert": "not owner key",
+      "message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "rotate_key",
+      "hash": "0xe5b1bfff0bd297db91d98b942fcf75bb5988fce167a5112a93832d852449de14",
+      "status": 1,
+      "block": 262638880,
+      "block_hash": "0xe3d8021437a83b56934b1ff14ecd9f47a126ef7b291fe0fd486fdde5aeea5a42",
+      "nonce": 25,
+      "gas_limit": 84911,
+      "gas_used": 63989,
+      "gas_charged": 63989,
+      "gas_price": 20000000000,
+      "fee_wei": 1279780000000000,
+      "balance_delta_wei": 1279780000000000,
+      "receipt_observation_s": 10.555669263005257,
+      "state_after": [
+        "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+        "0x939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445719,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x1e1734dE084Dd7947a491F4ec843317A1184da1f",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "old_key_update",
+      "hash": "0x30e2ad757b3ede4a889630cd2ac68499bd0da4fff67530297addc85efbab01cb",
+      "status": 0,
+      "block": 262638890,
+      "block_hash": "0xce2de4289ddce37e8f2e82f6baa8e4c7ccbbe26896adb1c4c985bc979f456f44",
+      "nonce": 26,
+      "gas_limit": 250000,
+      "gas_used": 71533,
+      "gas_charged": 187500,
+      "gas_price": 20000000000,
+      "fee_wei": 3750000000000000,
+      "balance_delta_wei": 3750000000000000,
+      "receipt_observation_s": 8.50412006303668,
+      "state_after": [
+        "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+        "0x939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445719,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "state_unchanged": true,
+      "preflight_revert": "not owner key",
+      "message_signer": "0x1e1734dE084Dd7947a491F4ec843317A1184da1f",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "new_key_update",
+      "hash": "0xc522db43fddc4d0fa14ebc59a50b002a3a56462decd2e343861713a94a0f90d0",
+      "status": 1,
+      "block": 262638900,
+      "block_hash": "0x8f2a14d5cfe100b336ffc3cb44f2db2d5bb89c37ae51e8b2168b45966e12da5a",
+      "nonce": 27,
+      "gas_limit": 127580,
+      "gas_used": 94988,
+      "gas_charged": 95685,
+      "gas_price": 20000000000,
+      "fee_wei": 1913700000000000,
+      "balance_delta_wei": 1913700000000000,
+      "receipt_observation_s": 14.653764646500349,
+      "state_after": [
+        "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+        "0x939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445720,
+        1,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "revoke_L",
+      "hash": "0x683f098ba1ab271d096ded889309b90f2d34f6e702f1283b20a1ada87a336efa",
+      "status": 1,
+      "block": 262638910,
+      "block_hash": "0xf1f0db4c5289fd3e724d2947f9f54c38d120cc1974c45f17a33cc9c0d3a4b765",
+      "nonce": 28,
+      "gas_limit": 62996,
+      "gas_used": 48284,
+      "gas_charged": 48284,
+      "gas_price": 20000000000,
+      "fee_wei": 965680000000000,
+      "balance_delta_wei": 965680000000000,
+      "receipt_observation_s": 8.504350250586867,
+      "state_after": [
+        "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+        "0x939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445721,
+        2,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "revoked_update",
+      "hash": "0x38a41405de345cd222bb482a63cee924125267637facdc1d955e3c1aa529e9cb",
+      "status": 0,
+      "block": 262638920,
+      "block_hash": "0x1814598869adb1046346859832426e10b725612b426c8a27d1aa6a4abfa0c19c",
+      "nonce": 29,
+      "gas_limit": 250000,
+      "gas_used": 47155,
+      "gas_charged": 187500,
+      "gas_price": 20000000000,
+      "fee_wei": 3750000000000000,
+      "balance_delta_wei": 3750000000000000,
+      "receipt_observation_s": 8.563597820699215,
+      "state_after": [
+        "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+        "0x939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445721,
+        2,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "state_unchanged": true,
+      "preflight_revert": "revoked",
+      "message_signer": "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "revoke_G",
+      "hash": "0xcfee424234818feebf797fe5d15cd8750906f01c163461c88027e1ee35e8dcb2",
+      "status": 1,
+      "block": 262638930,
+      "block_hash": "0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb",
+      "nonce": 30,
+      "gas_limit": 63020,
+      "gas_used": 48301,
+      "gas_charged": 48301,
+      "gas_price": 20000000000,
+      "fee_wei": 966020000000000,
+      "balance_delta_wei": 966020000000000,
+      "receipt_observation_s": 10.62792625464499,
+      "state_after": [
+        "0x130a53833A215cd7f36783853E1369b96E75b88f",
+        "0x96de7b60456284211fc08dc58611f4bf2f7e1b4fca2ba5dfcbb4c736ea450e89",
+        1789445719,
+        2,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/G.json"
+      ],
+      "state_unchanged": false,
+      "preflight_revert": null,
+      "message_signer": "0x130a53833A215cd7f36783853E1369b96E75b88f",
+      "transaction_sender": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    }
+  ],
+  "end_block": 262638930,
+  "end_block_hash": "0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb",
+  "device_before": {
+    "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x8Ece950af71d6c6F3eE8db558Be3Ba08Fa0Eb14D": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x43B8143CBE847b3Ef527062DD658EBc8d2EFE590": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x3b57f3509C9210542D3e838DA45D37291E93a45E": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0xdAbd437445fbd51F728dE90523b1B2ADC565dcDb": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x440C7D6C289c09EE19927867f5286A1141CD2e8D": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x130a53833A215cd7f36783853E1369b96E75b88f": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x53636eB219cCa6ed3811a904Bfa721DEfE9e0d7c": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x1e1734dE084Dd7947a491F4ec843317A1184da1f": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x30134DbFC14E71B962E702CEcb06259c8437332E": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  "device_after": {
+    "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x8Ece950af71d6c6F3eE8db558Be3Ba08Fa0Eb14D": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x43B8143CBE847b3Ef527062DD658EBc8d2EFE590": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x3b57f3509C9210542D3e838DA45D37291E93a45E": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0xdAbd437445fbd51F728dE90523b1B2ADC565dcDb": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x440C7D6C289c09EE19927867f5286A1141CD2e8D": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x130a53833A215cd7f36783853E1369b96E75b88f": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x53636eB219cCa6ed3811a904Bfa721DEfE9e0d7c": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x1e1734dE084Dd7947a491F4ec843317A1184da1f": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "0x30134DbFC14E71B962E702CEcb06259c8437332E": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  "total_fee_wei": 110719620000000000,
+  "success": 14,
+  "reverts": 5
+}

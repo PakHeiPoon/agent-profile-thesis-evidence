@@ -1,0 +1,21 @@
+{
+  "verification_rpc": "https://evmtestnet.confluxrpc.org",
+  "chain_id": 71,
+  "head_at_check": 262631670,
+  "deployment_block": 262631620,
+  "block_hash": "0x42b087247ec4f9ddeebb44a668bbb7b4c42c15ad72faef26ff3d3fd74c9db3a4",
+  "receipt_status": 1,
+  "runtime_exact_match": true,
+  "uri_message_hash_aligned": true,
+  "gas_used": 2955173,
+  "effective_gas_price_wei": 20000000000,
+  "execution_gas_times_price_test_cfx": "0.05910346",
+  "gas_limit": 4104578,
+  "gas_charged": 3078434,
+  "actual_fee_test_cfx": "0.06156868",
+  "fee_formula": "max(gasUsed, ceil(3 * gasLimit / 4)) * effectiveGasPrice",
+  "fee_rule_source": "https://doc.confluxnetwork.org/docs/espace/build/evm-compatibility/",
+  "balance_delta_matches_charged_fee": true,
+  "nonce_pending": 12,
+  "balance_after_test_cfx": "999.73149238"
+}

@@ -1,0 +1,317 @@
+{
+  "run_id": "run-20260915-public",
+  "chain_id": 71,
+  "contract": "0x49Fda55aEFfa835375290217Cd69E9bFFf17039b",
+  "relayer": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9",
+  "base_url": "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards",
+  "utc": "2026-09-15T04:15:18.828286+00:00",
+  "protocol_timestamp": 1789445718,
+  "public_file_sha256": {
+    "A-v2.json": "962208eed61fa25e844a293df37c3792ac5e852dbce8860416a62a5911908b2b",
+    "A.json": "3a33a9aa5010ea8107296f85e785b5bc9003a0890af9f31e0d55119624083dc0",
+    "B.json": "6fe9c1a495910527a3745fc158280eb710ca7b6f74f79a6b03da90229e32fbcd",
+    "C.json": "213392db453bee6457acfe28c451f1e8272b0645153ef79da31bcaeb35f1f7ca",
+    "D.json": "11e4d0ae6fe9ad0ba5070b960bc61720758a0716a0b1690b8bb3fbfc28fa4ae1",
+    "F.json": "5f794b9de6973d6e136be2fab59df13915813fd27bce9d862716e9d2110a0cf4",
+    "G.json": "6cd9720822d7a847819b17adabc2291ae6911ff85075e3929d0d0a57b17eecd8",
+    "H.json": "a5b1a2ff45a807ce81c1357004d96c47fcbc36781f5d3516625c9002dc212f7f",
+    "L.json": "3f6aa1b17f130216b96c52e04107dc670592c1745cd9e1a6bc37bc5b17baa1ce"
+  },
+  "identities": {
+    "A": "run-20260915-public-A",
+    "B": "run-20260915-public-B",
+    "C": "run-20260915-public-C",
+    "D": "run-20260915-public-D",
+    "E": "run-20260915-public-E",
+    "F": "run-20260915-public-F",
+    "G": "run-20260915-public-G",
+    "H": "run-20260915-public-H",
+    "L": "run-20260915-public-L"
+  },
+  "device_addresses": [
+    "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175",
+    "0x8Ece950af71d6c6F3eE8db558Be3Ba08Fa0Eb14D",
+    "0x43B8143CBE847b3Ef527062DD658EBc8d2EFE590",
+    "0x3b57f3509C9210542D3e838DA45D37291E93a45E",
+    "0xdAbd437445fbd51F728dE90523b1B2ADC565dcDb",
+    "0x440C7D6C289c09EE19927867f5286A1141CD2e8D",
+    "0x130a53833A215cd7f36783853E1369b96E75b88f",
+    "0x53636eB219cCa6ed3811a904Bfa721DEfE9e0d7c",
+    "0x1e1734dE084Dd7947a491F4ec843317A1184da1f",
+    "0x30134DbFC14E71B962E702CEcb06259c8437332E"
+  ],
+  "steps": [
+    {
+      "name": "register_A",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-A",
+        "8621e1397b3a14c161f881437c2cc42ab655a09c9514dbf39f10f04026ba7161",
+        1789445718,
+        "0x2e2476ad6f89007d388fcf94704d40263f24630a91a5fe37ddc8fc15c5a746b101b39873958abc23b9639001881edd5b09623baaca6a1db3e65cc659d25a2f931c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-A|8621e1397b3a14c161f881437c2cc42ab655a09c9514dbf39f10f04026ba7161|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A.json|1789445718",
+      "expected_message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175"
+    },
+    {
+      "name": "register_B",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-B",
+        "bc351cc1305e32870ed21a720414090bc8ecb039ca3258e197d757b0db6104dd",
+        1789445718,
+        "0x03c6ebdbbfb8a426562421925606a24d6427c9644229645df5312ab1fa9de6f20873ae9860ec22e5f4148012d7db134f2529612b8fa61f624f6d57441e0b54681c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/B.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-B|bc351cc1305e32870ed21a720414090bc8ecb039ca3258e197d757b0db6104dd|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/B.json|1789445718",
+      "expected_message_signer": "0x8Ece950af71d6c6F3eE8db558Be3Ba08Fa0Eb14D"
+    },
+    {
+      "name": "register_C",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-C",
+        "6b557f7284d6279ea56c4b263e7b1d0f8b18ccf1ba803e052062d1cc1449756c",
+        1789445718,
+        "0x04c5343a321d1362daf26edddbc0149dba98cab8d3c88f561c74775cd51256a77d0c36c4da613351d639ce30a91481fb8cfe90e794e586fb23176918b40d5d5b1b",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/C.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-C|6b557f7284d6279ea56c4b263e7b1d0f8b18ccf1ba803e052062d1cc1449756c|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/C.json|1789445718",
+      "expected_message_signer": "0x43B8143CBE847b3Ef527062DD658EBc8d2EFE590"
+    },
+    {
+      "name": "register_D",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-D",
+        "4095a5e86f85b85bc471edcfd75c5f2aec58e1745992f9140a1af350e4c98f37",
+        1789445718,
+        "0xac2ca9763e6925957ccddab746bc4f2cc9da29b6b6aaf062a17054a63fc4ec8d4d6456741b529069f30cb5e42330b8cdc864c5ecbdd4fe8c22891eef489f676a1b",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/D.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-D|4095a5e86f85b85bc471edcfd75c5f2aec58e1745992f9140a1af350e4c98f37|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/D.json|1789445718",
+      "expected_message_signer": "0x3b57f3509C9210542D3e838DA45D37291E93a45E"
+    },
+    {
+      "name": "register_E",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-E",
+        "81a554d09b6e70b09b2b35be88d67ffa40a3ce5293d000d19a2be5519f981696",
+        1789445718,
+        "0xa69883dca008a1a0b7830915a02d58707813e95025a9b3de23ce2d7fdd5aac221573bc3464e223151a6cec0a12ef5cddc4afba541e8861654a073b1a65de05d41c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/E.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-E|81a554d09b6e70b09b2b35be88d67ffa40a3ce5293d000d19a2be5519f981696|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/E.json|1789445718",
+      "expected_message_signer": "0xdAbd437445fbd51F728dE90523b1B2ADC565dcDb"
+    },
+    {
+      "name": "register_F",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-F",
+        "791ac7f487a62e6e0cb7df96d80b66c77d5ef1ea466c69bbbe676fab189fd41c",
+        1789445718,
+        "0x5d5c0373aac19cc441736d3822b00ac26fd06312f5dd0e61e3aec91d71bb1bae2920bfaa8d929e591076883633c33ac20be0c879eaa23363c50777caedec48821c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/F.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-F|791ac7f487a62e6e0cb7df96d80b66c77d5ef1ea466c69bbbe676fab189fd41c|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/F.json|1789445718",
+      "expected_message_signer": "0x440C7D6C289c09EE19927867f5286A1141CD2e8D"
+    },
+    {
+      "name": "register_G",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-G",
+        "96de7b60456284211fc08dc58611f4bf2f7e1b4fca2ba5dfcbb4c736ea450e89",
+        1789445718,
+        "0x9b952e97e8569d5696bd1a94307dcc3c1c8a37e58ade1c51e4390f847670958a51a71b481afc2da8ebd9b896d89655ba5b39bbc3385e975357cc50d4adcd319b1b",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/G.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-G|96de7b60456284211fc08dc58611f4bf2f7e1b4fca2ba5dfcbb4c736ea450e89|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/G.json|1789445718",
+      "expected_message_signer": "0x130a53833A215cd7f36783853E1369b96E75b88f"
+    },
+    {
+      "name": "register_H",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-H",
+        "e18a60e557f5ecfdef19210d06ec1a5291db5b3dbfc35f649ef35c4b23388964",
+        1789445718,
+        "0x6858d7edf537ec08c552473fb83cd2ce17884d81755dc19a21677365c7bddcf946b1884c47fa896e4d77b69264a72d51f2e3428120f5258667481cfa774ea9301c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/H.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-H|e18a60e557f5ecfdef19210d06ec1a5291db5b3dbfc35f649ef35c4b23388964|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/H.json|1789445718",
+      "expected_message_signer": "0x53636eB219cCa6ed3811a904Bfa721DEfE9e0d7c"
+    },
+    {
+      "name": "register_L",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-L",
+        "939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445718,
+        "0xb037e68f3c3198c81527fc96fac5db18dfa78d4df9f675a6e242eb78caada2f327f315d2b0ef71e836675b65c4c0b5b4c1dc1bee9af112315f66db923f88a9f21b",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-L|939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json|1789445718",
+      "expected_message_signer": "0x1e1734dE084Dd7947a491F4ec843317A1184da1f"
+    },
+    {
+      "name": "authorized_update",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-A",
+        "a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445719,
+        "0x57d4738c8e76b101c4b22df9e4f0f29eb8e32e881ec59a0024b810eb3ece4b7643a45c18ec7a0692ddcd865b85d3f1d3e33ae594e28feafd32e718d8fc4c35aa1c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-A|a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json|1789445719",
+      "expected_message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175"
+    },
+    {
+      "name": "relayer_forgery",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-A",
+        "a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445720,
+        null,
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+      ],
+      "expected_status": 0,
+      "signed_message": "achat-yp-register|run-20260915-public-A|a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json|1789445720",
+      "expected_message_signer": "0x172Ed629a857d67149FDFbcEac2436f1EdA866B9"
+    },
+    {
+      "name": "replay",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-A",
+        "a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445719,
+        "0x57d4738c8e76b101c4b22df9e4f0f29eb8e32e881ec59a0024b810eb3ece4b7643a45c18ec7a0692ddcd865b85d3f1d3e33ae594e28feafd32e718d8fc4c35aa1c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json"
+      ],
+      "expected_status": 0,
+      "signed_message": "achat-yp-register|run-20260915-public-A|a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json|1789445719",
+      "expected_message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175"
+    },
+    {
+      "name": "uri_swap",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-A",
+        "a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e",
+        1789445720,
+        "0xe122b2808349314c50e97beef31a5423f98c6d33a3dee83d0250ace0566a8c8a2cb9e562d64706b68fd8ae82e4ef671ffad875bfaf2b341174943edb04a8a3a01c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/B.json"
+      ],
+      "expected_status": 0,
+      "signed_message": "achat-yp-register|run-20260915-public-A|a641faa8cbc9e9a0aa99c2cda618a62129d599ab5a5ccffc4b1705ef22332c8e|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/A-v2.json|1789445720",
+      "expected_message_signer": "0x187FFe311BE6a4f1ef9eAE0044395c5d17cE4175"
+    },
+    {
+      "name": "rotate_key",
+      "function": "rotateKey",
+      "args": [
+        "run-20260915-public-L",
+        "0x30134DbFC14E71B962E702CEcb06259c8437332E",
+        1789445719,
+        "0xa9541000f2dc8dd5f6a55165c169e60efe175acea720d630bc1059a933fd3213564446487788447e70de5ff50772249dbc3315d2510317b9f58e69eb52b346501c"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-rotate|run-20260915-public-L|0x30134dbfc14e71b962e702cecb06259c8437332e|1789445719",
+      "expected_message_signer": "0x1e1734dE084Dd7947a491F4ec843317A1184da1f"
+    },
+    {
+      "name": "old_key_update",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-L",
+        "939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445720,
+        "0xe7dd0d29bb561e37eb4253fcc301f4a196d112ce7596fd72d0a3d6dcf799e9b6083f562557d7618024f5dd105a9ae0b0b7d2b7664b54c0149a9e6c3b9cdd0c9d1b",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "expected_status": 0,
+      "signed_message": "achat-yp-register|run-20260915-public-L|939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json|1789445720",
+      "expected_message_signer": "0x1e1734dE084Dd7947a491F4ec843317A1184da1f"
+    },
+    {
+      "name": "new_key_update",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-L",
+        "939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445720,
+        "0xf28f865cc1e306ff128e8ed34f8c42ccb955cd7c126b3471fcdeea62fe7a14734cd07a6863b2384cf599361f0d2150d97d8e78dcd0f48ebde100e525893ec6a71b",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-yp-register|run-20260915-public-L|939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json|1789445720",
+      "expected_message_signer": "0x30134DbFC14E71B962E702CEcb06259c8437332E"
+    },
+    {
+      "name": "revoke_L",
+      "function": "revoke",
+      "args": [
+        "run-20260915-public-L",
+        1789445721,
+        "0x084be9d527ff18bc8975747d37325ed164c60358ada8375f6d72e658b4885e2d6588374db92b14d82a5ed9b39e79e7d8e83094608a62089f8f8482a1a9f571c81b"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-revoke|run-20260915-public-L|1789445721",
+      "expected_message_signer": "0x30134DbFC14E71B962E702CEcb06259c8437332E"
+    },
+    {
+      "name": "revoked_update",
+      "function": "anchor",
+      "args": [
+        "run-20260915-public-L",
+        "939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97",
+        1789445722,
+        "0xc83f98cf58d2f7a545ffbc9de0a43d058f9e7d36f644091053e802aec3e420761646e3972921fc3df3516564f5d8fdc8d35443f380f5108c6e840c6558d5040c1c",
+        "https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json"
+      ],
+      "expected_status": 0,
+      "signed_message": "achat-yp-register|run-20260915-public-L|939d45095b0e7a4a3c095a743d52b5842c919707396bcaddc1e9061137909f97|https://raw.githubusercontent.com/PakHeiPoon/agent-profile-thesis-evidence/34c6ccdfd758e61bbae4bd968ece03ad8932c82d/run-20260915-public/cards/L.json|1789445722",
+      "expected_message_signer": "0x30134DbFC14E71B962E702CEcb06259c8437332E"
+    },
+    {
+      "name": "revoke_G",
+      "function": "revoke",
+      "args": [
+        "run-20260915-public-G",
+        1789445719,
+        "0x1ba2f43c98d49d4422d43f633d53e5f5de6f467b0d0f4caeb6d32d5c53116da83ad63b55cbcb17209e98f7c553fa951560f7ade0f2d1c84d19a9d1175a71ce241c"
+      ],
+      "expected_status": 1,
+      "signed_message": "achat-revoke|run-20260915-public-G|1789445719",
+      "expected_message_signer": "0x130a53833A215cd7f36783853E1369b96E75b88f"
+    }
+  ],
+  "expected_transactions": 19,
+  "expected_success": 14,
+  "expected_reverts": 5,
+  "expected_directory": {
+    "verified": 4,
+    "unavailable": 1,
+    "hash_mismatch": 1,
+    "identity_mismatch": 1,
+    "revoked": 2
+  },
+  "scope": "Synthetic controlled mechanism cases, not a representative population or security proof"
+}
