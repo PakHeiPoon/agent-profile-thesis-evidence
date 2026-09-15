@@ -1,0 +1,26 @@
+{
+  "run_id": "run-20260915-public",
+  "files": {
+    "public/A-v2.json": "962208eed61fa25e844a293df37c3792ac5e852dbce8860416a62a5911908b2b",
+    "public/A.json": "3a33a9aa5010ea8107296f85e785b5bc9003a0890af9f31e0d55119624083dc0",
+    "public/B.json": "6fe9c1a495910527a3745fc158280eb710ca7b6f74f79a6b03da90229e32fbcd",
+    "public/C.json": "213392db453bee6457acfe28c451f1e8272b0645153ef79da31bcaeb35f1f7ca",
+    "public/D.json": "11e4d0ae6fe9ad0ba5070b960bc61720758a0716a0b1690b8bb3fbfc28fa4ae1",
+    "public/F.json": "5f794b9de6973d6e136be2fab59df13915813fd27bce9d862716e9d2110a0cf4",
+    "public/G.json": "6cd9720822d7a847819b17adabc2291ae6911ff85075e3929d0d0a57b17eecd8",
+    "public/H.json": "a5b1a2ff45a807ce81c1357004d96c47fcbc36781f5d3516625c9002dc212f7f",
+    "public/L.json": "3f6aa1b17f130216b96c52e04107dc670592c1745cd9e1a6bc37bc5b17baa1ce",
+    "originals/A-v2.json": "962208eed61fa25e844a293df37c3792ac5e852dbce8860416a62a5911908b2b",
+    "originals/A.json": "3a33a9aa5010ea8107296f85e785b5bc9003a0890af9f31e0d55119624083dc0",
+    "originals/B.json": "6fe9c1a495910527a3745fc158280eb710ca7b6f74f79a6b03da90229e32fbcd",
+    "originals/C.json": "213392db453bee6457acfe28c451f1e8272b0645153ef79da31bcaeb35f1f7ca",
+    "originals/D.json": "11e4d0ae6fe9ad0ba5070b960bc61720758a0716a0b1690b8bb3fbfc28fa4ae1",
+    "originals/E.json": "680ba13902556a70c3a3a8dbf1a14eb97092dd932adf9e4f47b3737335ffefe8",
+    "originals/F.json": "a8ff6427f85b0590f8a69c1abe81c518861eef25d21a195b32e0862410d02e7a",
+    "originals/G.json": "6cd9720822d7a847819b17adabc2291ae6911ff85075e3929d0d0a57b17eecd8",
+    "originals/H.json": "c4884bec41bf9f1184ff2f05699701b56ed90c6018d6ae15ae871e131265f168",
+    "originals/L.json": "3f6aa1b17f130216b96c52e04107dc670592c1745cd9e1a6bc37bc5b17baa1ce"
+  },
+  "storage_status": "prepared_only_not_uploaded_or_pinned",
+  "note": "Pin only public/ as the card directory. Signatures are generated after CID is known, avoiding a self-referential CID."
+}

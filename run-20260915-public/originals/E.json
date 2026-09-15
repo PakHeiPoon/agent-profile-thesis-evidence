@@ -1,0 +1,10 @@
+{
+  "agent_id": "run-20260915-public-E",
+  "display_name": "Synthetic agent E",
+  "offers": [
+    "学术资料检索"
+  ],
+  "version": 1,
+  "synthetic": true,
+  "notice": "Public thesis test data; capability is an unverified claim."
+}
