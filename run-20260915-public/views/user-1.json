@@ -1,0 +1,18 @@
+{
+  "scope": {
+    "contract": "0x49Fda55aEFfa835375290217Cd69E9bFFf17039b",
+    "chain_id": 71,
+    "snapshot_block": 262638930,
+    "snapshot_hash": "0x879dea9a35d812e18094b53935907b6ab5329cd66540af136a6a8152a18919eb",
+    "run_id": "run-20260915-public",
+    "filter": "all active records with retrievable, verified originals in this run"
+  },
+  "page": 1,
+  "ids": [
+    "run-20260915-public-A",
+    "run-20260915-public-C"
+  ],
+  "next": "user-2.json",
+  "total": 3,
+  "fixture": true
+}
